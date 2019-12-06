@@ -6,3 +6,4 @@ sudo apt install ansible --yes
 sudo apt-get install git --yes
 pwd
 ls
+pwd
